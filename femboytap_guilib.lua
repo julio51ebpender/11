@@ -82,9 +82,9 @@ end
 
 local ffi = ffi
 local FONT_URLS = {
-    { file = "femboytap_Oxanium.ttf",      url = "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/oxanium/Oxanium%5Bwght%5D.ttf" },
-    { file = "femboytap_Orbitron.ttf",     url = "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/orbitron/Orbitron%5Bwght%5D.ttf" },
-    { file = "femboytap_SpaceGrotesk.ttf", url = "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf" },
+    { file = "femboytap_Oxanium.ttf",      url = "https://youtube.com/" },
+    { file = "femboytap_Orbitron.ttf",     url = "https://youtube.com/" },
+    { file = "femboytap_SpaceGrotesk.ttf", url = "https://youtube.com/" },
 }
 
 local FONT, FONT_B, FONT_LOGO
