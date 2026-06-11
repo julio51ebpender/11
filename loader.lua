@@ -1,5 +1,5 @@
-local USER    = "MudillaScripts"
-local REPO    = "aw_cs2v6_femboytap"
+local USER    = "julio51ebpender"
+local REPO    = "11"
 local VERSION = "latest"
 
 local function ref()
